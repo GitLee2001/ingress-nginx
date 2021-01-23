@@ -1,1 +1,1 @@
-FROM k8s.gcr/ingress-nginx/controller:v0.43.0
+FROM k8s.gcr.io/ingress-nginx/controller:v0.43.0
